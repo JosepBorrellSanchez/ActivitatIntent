@@ -7,5 +7,9 @@
     <string name="apretam">apretam</string>
     <string name="tornar">cap atras</string>
     <string name="activitata">Nem a l altra</string>
+    <string name="activitatatitul">Activitat 1</string>
+    <color name="blau">#33B5E5</color>
+    <color name="taronja">#FFBB33</color>
+    <color name="roig">#CC0000</color>
 
 </resources>
